@@ -1,1 +1,1 @@
-https://github.com/liujian0819/SA3D-L/blob/main/Demo%20Video1.mp4
+https://github.com/liujian0819/SA3D-L/blob/main/Demo%20Video2.mp4

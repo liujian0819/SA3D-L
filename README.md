@@ -1,3 +1,7 @@
+
+SA3D-L: A Light-weight Model for 3D Object Segmentation Using
+Neural Radiance Fields
+
 ![image](https://github.com/liujian0819/SA3D-L/blob/main/Video1_64913419.gif)
 <!DOCTYPE html>
 <html>
